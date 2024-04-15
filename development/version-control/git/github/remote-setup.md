@@ -9,6 +9,18 @@ command `ssh-keygen` to do so, but I won't detail the specifics here.
 
 
 
+## Adding Public Key to Github
+
+Once signed into Github, do the following:
+
+1. Click on your account icon on the top right
+1. Click on Settings
+1. Under `Access` click on `SSH and GPG keys`
+1. Under `SSH keys` click on `New SSH key` and paste in the contents of
+   the public key.
+
+
+
 ## Testing Connection w/ SSH Key
 
 ```bash
