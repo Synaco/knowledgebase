@@ -3,6 +3,10 @@
 
 ## Creating SSH Key's
 
+You need to have SSH key's created in order to authenticate when
+doing any activity in connecting to Github.  You will need to use the
+command `ssh-keygen` to do so, but I won't detail the specifics here.
+
 
 
 ## Testing Connection w/ SSH Key
