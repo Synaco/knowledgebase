@@ -8,7 +8,7 @@ Gives info of remote repository like the URL.
 
 Example Output:
 
-```bash
+```text
 * remote origin
   Fetch URL: git@github.com:user/repository.git
   Push  URL: git@github.com:user/repository.git
