@@ -3,8 +3,8 @@
 There's a treasure trove of information out on the internet. Some 
 resources are free; some, not so much. Some will better prepare you 
 for the workforce or a career, while others feed the itch to learn and 
-tinker. The list below is made up of resources I've found---either 
-organically or through others' suggestions---that fit into one or both 
+tinker. The list below is made up of resources I've found—either 
+organically or through others' suggestions—that fit into one or both 
 of those categories for me
 
 
