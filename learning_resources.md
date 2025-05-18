@@ -7,8 +7,8 @@ tinker. The list below are resources I've found (either organically or
 through others suggestions) that fit into one category or both for me.
 
 As Kolkhis wrote:
-> Don't worry about the project as a whole.
-> Worry about one piece at a time.
+> Don't worry about the project as a whole.  
+> Worry about one piece at a time.  
 > You build a wall brick by brick.
 
 
