@@ -41,7 +41,6 @@ As Kolkhis wrote:
 * Practical Purple Teaming (PreOrder: September 2025)
 * Data Engineering for Cybersecurity (PreOrder: Fall 2025)
 * Deep Learning Crash Course (PreOrder: Fall 2025)
-* Practical Deep Learning (PreOrder: July 2025)
 * Automate The Boring Stuff With Python Workbook (PreOrder: Fall 2025)
 * Learn To Code By Solving Problems
 * The Wireless Cookbook (PreOrder: Fall 2025)
